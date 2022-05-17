@@ -5,7 +5,6 @@
     0.03,
     51.54
   ],
-  "map_style":"https://api.maptiler.com/maps/outdoor/style.json?key=kqQCjfFMEWhLGBLyMnwW",
   "layers": [{
       "name": "Open Street Map",
       "type": "raster",
