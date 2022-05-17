@@ -5,7 +5,17 @@
     0.03,
     51.54
   ],
-  "layers": [],
+  "layers": [{
+      "name": "Open Street Map",
+      "type": "raster",
+      "tiles": [
+        "https://tile.openstreetmap.org/{z}/{x}/{y}.png"
+      ],
+      "tileSize": 256,
+      "attribution": "OpenStreetMap contributors",
+      "minzoom": 0,
+      "maxzoom": 24
+  }],
   "data":[
     {
       "name":"Heritage for All London",
@@ -28,7 +38,8 @@
         "properties",
         "facet"
       ]
-    }
+    },
+    "type"
   ],
   "link_icons":{
     "www.british-history.ac.uk":"./logos/bho.png"
