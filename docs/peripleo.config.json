@@ -32,13 +32,6 @@
         "organisation"
       ]
     },
-    {
-      "name":"Type",
-      "path":[
-        "properties",
-        "facet"
-      ]
-    },
     "type"
   ],
   "link_icons":{
