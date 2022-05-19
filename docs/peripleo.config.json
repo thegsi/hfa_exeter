@@ -20,7 +20,7 @@
     {
       "name":"Heritage for All London",
       "format":"LINKED_PLACES",
-      "src":"https://thegsi.github.io/hfa_exeter/hfa_exeter.json",
+      "src":"https://thegsi.github.io/hfa_pas_exeter/hfa_exeter.json",
       "attribution": "Locating a National Collection"
     }
   ],
