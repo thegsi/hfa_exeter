@@ -1,9 +1,9 @@
 {
   "initial_bounds":[
     -0.08,
-    51.47,
-    0.03,
-    51.54
+    51.45,
+    0.08,
+    51.55
   ],
   "layers": [{
       "name": "Open Street Map",
